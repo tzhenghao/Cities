@@ -2,13 +2,13 @@
 
 /**
  * @ngdoc function
- * @name citiesApp.controller:ContactControl
+ * @name citiesApp.controller:CitiesListControl
  * @description
- * # ContactControl
+ * # CitiesListControl
  * Controller of the citiesApp
  */
 angular.module('citiesApp')
-  .controller('ContactControl', function ($scope) {
+  .controller('CitiesListControl', function ($scope) {
   	$scope.message = 'If you have any questions/concerns, feel free to contact me'
     $scope.email = 'tanzhao@umich.edu'
   });

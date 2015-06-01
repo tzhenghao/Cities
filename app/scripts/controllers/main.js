@@ -4,7 +4,7 @@
  * @ngdoc function
  * @name citiesApp.controller:MainCtrl
  * @description
- * # MainCtrl
+ * # MainControl
  * Controller of the citiesApp
  */
 angular.module('citiesApp')
