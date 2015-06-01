@@ -8,7 +8,7 @@
  * Controller of the citiesApp
  */
 angular.module('citiesApp')
-  .controller('MainControl', function ($scope) {
+  .controller('ContactControl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',

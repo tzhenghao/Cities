@@ -8,7 +8,7 @@
  * Controller of the citiesApp
  */
 angular.module('citiesApp')
-  .controller('AboutCtrl', function ($scope) {
+  .controller('AboutControl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
