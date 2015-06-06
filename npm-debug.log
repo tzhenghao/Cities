@@ -1,0 +1,166 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.36
+4 verbose readDependencies using package.json deps
+5 verbose install where, deps [ '/Users/0xalate/projects/WebProjects/Cities',
+5 verbose install   [ 'grunt',
+5 verbose install     'grunt-autoprefixer',
+5 verbose install     'grunt-concurrent',
+5 verbose install     'grunt-contrib-clean',
+5 verbose install     'grunt-contrib-compass',
+5 verbose install     'grunt-contrib-concat',
+5 verbose install     'grunt-contrib-connect',
+5 verbose install     'grunt-contrib-copy',
+5 verbose install     'grunt-contrib-cssmin',
+5 verbose install     'grunt-contrib-htmlmin',
+5 verbose install     'grunt-contrib-imagemin',
+5 verbose install     'grunt-contrib-jshint',
+5 verbose install     'grunt-contrib-uglify',
+5 verbose install     'grunt-contrib-watch',
+5 verbose install     'grunt-filerev',
+5 verbose install     'grunt-google-cdn',
+5 verbose install     'grunt-karma',
+5 verbose install     'grunt-newer',
+5 verbose install     'grunt-ng-annotate',
+5 verbose install     'grunt-svgmin',
+5 verbose install     'grunt-usemin',
+5 verbose install     'grunt-wiredep',
+5 verbose install     'jshint-stylish',
+5 verbose install     'karma-jasmine',
+5 verbose install     'karma-phantomjs-launcher',
+5 verbose install     'load-grunt-tasks',
+5 verbose install     'time-grunt' ] ]
+6 info preinstall cities@0.0.0
+7 verbose readDependencies using package.json deps
+8 verbose already installed skipping grunt@^0.4.5 /Users/0xalate/projects/WebProjects/Cities
+9 verbose already installed skipping grunt-autoprefixer@^2.0.0 /Users/0xalate/projects/WebProjects/Cities
+10 verbose already installed skipping grunt-concurrent@^1.0.0 /Users/0xalate/projects/WebProjects/Cities
+11 verbose already installed skipping grunt-contrib-clean@^0.6.0 /Users/0xalate/projects/WebProjects/Cities
+12 verbose already installed skipping grunt-contrib-compass@^1.0.0 /Users/0xalate/projects/WebProjects/Cities
+13 verbose already installed skipping grunt-contrib-concat@^0.5.0 /Users/0xalate/projects/WebProjects/Cities
+14 verbose already installed skipping grunt-contrib-connect@^0.9.0 /Users/0xalate/projects/WebProjects/Cities
+15 verbose already installed skipping grunt-contrib-copy@^0.7.0 /Users/0xalate/projects/WebProjects/Cities
+16 verbose already installed skipping grunt-contrib-cssmin@^0.12.0 /Users/0xalate/projects/WebProjects/Cities
+17 verbose already installed skipping grunt-contrib-htmlmin@^0.4.0 /Users/0xalate/projects/WebProjects/Cities
+18 verbose already installed skipping grunt-contrib-imagemin@^0.9.2 /Users/0xalate/projects/WebProjects/Cities
+19 verbose already installed skipping grunt-contrib-jshint@^0.11.0 /Users/0xalate/projects/WebProjects/Cities
+20 verbose already installed skipping grunt-contrib-uglify@^0.7.0 /Users/0xalate/projects/WebProjects/Cities
+21 verbose already installed skipping grunt-contrib-watch@^0.6.1 /Users/0xalate/projects/WebProjects/Cities
+22 verbose already installed skipping grunt-filerev@^2.1.2 /Users/0xalate/projects/WebProjects/Cities
+23 verbose already installed skipping grunt-google-cdn@^0.4.3 /Users/0xalate/projects/WebProjects/Cities
+24 verbose already installed skipping grunt-karma@* /Users/0xalate/projects/WebProjects/Cities
+25 verbose already installed skipping grunt-newer@^1.1.0 /Users/0xalate/projects/WebProjects/Cities
+26 verbose already installed skipping grunt-ng-annotate@^0.9.2 /Users/0xalate/projects/WebProjects/Cities
+27 verbose already installed skipping grunt-svgmin@^2.0.0 /Users/0xalate/projects/WebProjects/Cities
+28 verbose already installed skipping grunt-usemin@^3.0.0 /Users/0xalate/projects/WebProjects/Cities
+29 verbose already installed skipping grunt-wiredep@^2.0.0 /Users/0xalate/projects/WebProjects/Cities
+30 verbose already installed skipping jshint-stylish@^1.0.0 /Users/0xalate/projects/WebProjects/Cities
+31 verbose already installed skipping karma-jasmine@* /Users/0xalate/projects/WebProjects/Cities
+32 verbose already installed skipping karma-phantomjs-launcher@* /Users/0xalate/projects/WebProjects/Cities
+33 verbose already installed skipping load-grunt-tasks@^3.1.0 /Users/0xalate/projects/WebProjects/Cities
+34 verbose already installed skipping time-grunt@^1.0.0 /Users/0xalate/projects/WebProjects/Cities
+35 silly resolved []
+36 info build /Users/0xalate/projects/WebProjects/Cities
+37 verbose linkStuff [ false, false, false, '/Users/0xalate/projects/WebProjects' ]
+38 info linkStuff cities@0.0.0
+39 verbose linkBins cities@0.0.0
+40 verbose linkMans cities@0.0.0
+41 verbose rebuildBundles cities@0.0.0
+42 verbose rebuildBundles [ 'grunt',
+42 verbose rebuildBundles   'grunt-autoprefixer',
+42 verbose rebuildBundles   'grunt-concurrent',
+42 verbose rebuildBundles   'grunt-contrib-clean',
+42 verbose rebuildBundles   'grunt-contrib-compass',
+42 verbose rebuildBundles   'grunt-contrib-concat',
+42 verbose rebuildBundles   'grunt-contrib-connect',
+42 verbose rebuildBundles   'grunt-contrib-copy',
+42 verbose rebuildBundles   'grunt-contrib-cssmin',
+42 verbose rebuildBundles   'grunt-contrib-htmlmin',
+42 verbose rebuildBundles   'grunt-contrib-imagemin',
+42 verbose rebuildBundles   'grunt-contrib-jshint',
+42 verbose rebuildBundles   'grunt-contrib-uglify',
+42 verbose rebuildBundles   'grunt-contrib-watch',
+42 verbose rebuildBundles   'grunt-filerev',
+42 verbose rebuildBundles   'grunt-google-cdn',
+42 verbose rebuildBundles   'grunt-karma',
+42 verbose rebuildBundles   'grunt-newer',
+42 verbose rebuildBundles   'grunt-ng-annotate',
+42 verbose rebuildBundles   'grunt-svgmin',
+42 verbose rebuildBundles   'grunt-usemin',
+42 verbose rebuildBundles   'grunt-wiredep',
+42 verbose rebuildBundles   'jasmine-core',
+42 verbose rebuildBundles   'jshint-stylish',
+42 verbose rebuildBundles   'karma',
+42 verbose rebuildBundles   'karma-jasmine',
+42 verbose rebuildBundles   'karma-phantomjs-launcher',
+42 verbose rebuildBundles   'load-grunt-tasks',
+42 verbose rebuildBundles   'time-grunt' ]
+43 verbose rebuild bundle /Users/0xalate/projects/WebProjects/Cities/node_modules/jasmine-core
+44 info build /Users/0xalate/projects/WebProjects/Cities/node_modules/jasmine-core
+45 info preinstall jasmine-core@2.3.2
+46 verbose linkStuff [ false,
+46 verbose linkStuff   false,
+46 verbose linkStuff   false,
+46 verbose linkStuff   '/Users/0xalate/projects/WebProjects/Cities/node_modules' ]
+47 info linkStuff jasmine-core@2.3.2
+48 verbose linkBins jasmine-core@2.3.2
+49 verbose linkMans jasmine-core@2.3.2
+50 verbose rebuildBundles jasmine-core@2.3.2
+51 info install jasmine-core@2.3.2
+52 info postinstall jasmine-core@2.3.2
+53 verbose rebuild bundle /Users/0xalate/projects/WebProjects/Cities/node_modules/karma
+54 info build /Users/0xalate/projects/WebProjects/Cities/node_modules/karma
+55 info preinstall karma@0.12.31
+56 verbose linkStuff [ false,
+56 verbose linkStuff   false,
+56 verbose linkStuff   false,
+56 verbose linkStuff   '/Users/0xalate/projects/WebProjects/Cities/node_modules' ]
+57 info linkStuff karma@0.12.31
+58 verbose linkBins karma@0.12.31
+59 verbose link bins [ {},
+59 verbose link bins   '/Users/0xalate/projects/WebProjects/Cities/node_modules/.bin',
+59 verbose link bins   false ]
+60 verbose linkMans karma@0.12.31
+61 verbose rebuildBundles karma@0.12.31
+62 verbose rebuildBundles [ '.bin',
+62 verbose rebuildBundles   'chokidar',
+62 verbose rebuildBundles   'colors',
+62 verbose rebuildBundles   'connect',
+62 verbose rebuildBundles   'di',
+62 verbose rebuildBundles   'glob',
+62 verbose rebuildBundles   'graceful-fs',
+62 verbose rebuildBundles   'http-proxy',
+62 verbose rebuildBundles   'lodash',
+62 verbose rebuildBundles   'log4js',
+62 verbose rebuildBundles   'mime',
+62 verbose rebuildBundles   'minimatch',
+62 verbose rebuildBundles   'optimist',
+62 verbose rebuildBundles   'q',
+62 verbose rebuildBundles   'rimraf',
+62 verbose rebuildBundles   'socket.io',
+62 verbose rebuildBundles   'source-map',
+62 verbose rebuildBundles   'useragent' ]
+63 info install karma@0.12.31
+64 info postinstall karma@0.12.31
+65 info install cities@0.0.0
+66 info postinstall cities@0.0.0
+67 verbose unsafe-perm in lifecycle true
+68 info cities@0.0.0 Failed to exec postinstall script
+69 error cities@0.0.0 postinstall: `grunt uglify`
+69 error Exit status 3
+70 error Failed at the cities@0.0.0 postinstall script.
+70 error This is most likely a problem with the cities package,
+70 error not with npm itself.
+70 error Tell the author that this fails on your system:
+70 error     grunt uglify
+70 error You can get their info via:
+70 error     npm owner ls cities
+70 error There is likely additional logging output above.
+71 error System Darwin 14.3.0
+72 error command "node" "/usr/local/bin/npm" "install"
+73 error cwd /Users/0xalate/projects/WebProjects/Cities
+74 error node -v v0.10.36
+75 error npm -v 1.4.28
+76 error code ELIFECYCLE
+77 verbose exit [ 1, true ]
